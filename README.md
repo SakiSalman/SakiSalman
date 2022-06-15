@@ -41,12 +41,12 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **codersaki98@gmail.com**  
-
+>
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/283152128_558735322486313_8358472814927497461_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEakRi-tAp-USurlZaIyyzaTt7MPQQZH8NO3sw9BBkfw3PXc8L_Ukpam4RdypGjFofK7_swqX36upvRcgaNJcGI&_nc_ohc=65hXNUgzDtgAX_7HEjd&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-f-NCRSHiWlyTTX3jE7B-7a5OjgZiMmuN18r-qwd4lbw&oe=62AA07AB" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/92pMHnC/Git-Profile.jpg" alt="Git-Profile" border="0" align="center" style="width: 100%" />
 </div>  
 
 
