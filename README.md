@@ -72,10 +72,6 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 <br/>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakiSalman)  
-
-
-
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=JabedWeb&label=Profile%20views&color=0e75b6&style=flat" alt="JabedWeb" /> </p>
             <a href="https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
